@@ -1,3 +1,5 @@
 a
 b
 batchbatch
+
+reorder palytlsit by artist name
